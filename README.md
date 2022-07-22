@@ -4,7 +4,7 @@ Vecna and the Mindflare along with demogordans are back to conqor over the our w
 
 # Demo
 
-You can see live demo <a href="https://salonigupta1100.github.io/vecflare/">here</a>
+You can see live demo <a href="https://62da74ea27c09d0058d164c8--coruscating-bubblegum-7b4aee.netlify.app/">here</a>
 
 # Tech Stack
 
